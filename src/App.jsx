@@ -1,9 +1,8 @@
-import { useState } from "react";
 import Navbar from "./components/Navbar";
 import MainPge from "./components/MainPge";
-import Content from "./components/content";
 import ProfileIcon from "./components/ProfileIcon";
 import Footer from "./components/Footer";
+import Content from "./components/content";
 
 function App() {
 

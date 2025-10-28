@@ -10,7 +10,6 @@ import img7 from "../assets/seventh img.webp";
 import img8 from "../assets/eight img.webp";
 import img9 from "../assets/nineth img.gif";
 import img10 from "../assets/tenth img.gif";
-import img11 from "../assets/eleventh img.webp";
 import img12 from "../assets/twelth img.webp";
 import img13 from "../assets/thirteenth img.webp";
 import img14 from "../assets/fourtheenth img.webp";
