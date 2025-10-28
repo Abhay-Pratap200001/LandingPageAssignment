@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  overflow-x: hidden;
+}
+
+.custom-select {
+  appearance: none;
+  background-color: transparent;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='gray' height='10' width='10' xmlns='http://www.w3.org/2000/svg'><path d='M0 0 L5 5 L10 0'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 0.1rem center;
+  background-size: 0.6rem;
+ padding-left: 1rem;
+  /* padding-right: ; space for arrow */
+}
