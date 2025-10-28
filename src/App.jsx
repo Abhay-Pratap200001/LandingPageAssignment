@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import MainPge from "./components/MainPge";
 import ProfileIcon from "./components/ProfileIcon";
 import Footer from "./components/Footer";
-import Content from './components/Content'
+import Content from "./components/content";
 
 function App() {
 
