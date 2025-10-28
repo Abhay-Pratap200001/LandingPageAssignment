@@ -15,9 +15,11 @@ import img13 from "../assets/thirteenth img.webp";
 import img14 from "../assets/fourtheenth img.webp";
 import img15 from "../assets/fiftheenth img.webp";
 
-const Content = () => {
+
+const AllPages = () => {
   return (
-    <div className="flex flex-col items-center px-6 sm:px-12 md:px-24 lg:px-48 xl:px-72 text-gray-800 ">
+    <div>
+       <div className="flex flex-col items-center px-6 sm:px-12 md:px-24 lg:px-48 xl:px-72 text-gray-800 ">
       {/* Intro */}
       <div className="text-center py-9 max-w-3xl">
         <p className="text-lg leading-relaxed">
@@ -195,7 +197,9 @@ const Content = () => {
         <img src={img15} alt="" />
       </div>
     </div>
-  );
-};
+    </div>
+  )
+}
 
-export default Content;
+export default AllPages
+
