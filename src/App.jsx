@@ -2,7 +2,7 @@ import Navbar from "./components/Navbar";
 import MainPge from "./components/MainPge";
 import ProfileIcon from "./components/ProfileIcon";
 import Footer from "./components/Footer";
-import AllPages from './components/AllPages'
+import Content from './components/Content'
 
 function App() {
 
@@ -11,7 +11,7 @@ function App() {
       <Navbar/>
       <MainPge/>
       <ProfileIcon/>
-      <AllPages/>
+      <Content/>
       <Footer/>
     </div>
     

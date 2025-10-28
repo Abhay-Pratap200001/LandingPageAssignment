@@ -16,7 +16,7 @@ import img14 from "../assets/fourtheenth img.webp";
 import img15 from "../assets/fiftheenth img.webp";
 
 
-const AllPages = () => {
+const Content = () => {
   return (
     <div>
        <div className="flex flex-col items-center px-6 sm:px-12 md:px-24 lg:px-48 xl:px-72 text-gray-800 ">
@@ -201,5 +201,5 @@ const AllPages = () => {
   )
 }
 
-export default AllPages
+export default Content
 
